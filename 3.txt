@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Rozwiązanie v2
+=======
+Polo
+>>>>>>> parent of 039afad (Update 3.txt na GITHUB v2)
